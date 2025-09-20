@@ -1,0 +1,17 @@
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+channels
+channels-redis
+psycopg2-binary
+Pillow
+celery
+redis
+django-filter
+gunicorn
+whitenoise
+python-decouple
+django-storages
+boto3
+djoser
