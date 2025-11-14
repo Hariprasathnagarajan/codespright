@@ -56,7 +56,7 @@ const Header = () => {
               <GraduationCap className="w-7 h-7 text-white" />
             </div>
             <div className="flex flex-col">
-              <span className="text-2xl font-medium text-gray-900">EduPlatform</span>
+              <span className="text-2xl font-medium text-gray-900">CodeSpright</span>
               <span className="text-sm text-gray-500 -mt-1">Professional Learning</span>
             </div>
           </Link>
